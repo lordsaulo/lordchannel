@@ -11,16 +11,16 @@
 clear
 #
 #BANNER
-echo "\n\n\033[1;36m#####################################"
-echo "#   SCRIPT PARA SQLMAP AUTOMATICO   #"
-echo "#                                   #"
-echo "#  Coded by: BOB  Repostado por: LORD 
-[canal: 
-https://www.youtube.com/
-channel/UCaBiyHdsbvqBkGlKJv0DlhQ] 
-contato:62995475750 
-[não me responsabilizo pelo mal
- uso do script]#"
+echo "\n\n\033[1;36m############################
+echo "#   SCRIPT PARA SQLMAP AUTOMATICO        #"
+echo "#                                        #"
+echo "#  Coded by: BOB  Repostado por: LORD    #*
+     "#[canal:                                 #*
+     "#https://www.youtube.com/.               #*
+     "#channel/UCaBiyHdsbvqBkGlKJv0DlhQ]       #*
+     "#contato:62995475750                     #*
+     "#[não me responsabilizo pelo mal.        #*
+     "#uso do script]                          #"
 echo "#####################################";sleep 2
 #
 #Menu
